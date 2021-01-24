@@ -1,5 +1,6 @@
 // Programm skapat av Adam Rosing 21-11-2020
 // Labb2 Kurs introduktion till cpp
+//Program för att formatera om indata från fil och skriva ut nya datan till en ny fil
 
 #include <iostream>
 #include <fstream>
