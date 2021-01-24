@@ -1,7 +1,3 @@
-//Skapat av Adam Rosing 5/1/2021
-//Räknar hur många gånger ett ord nämns från input.
-//Inte färdig
-
 #include <iostream>
 #include <fstream>
 #include <vector>
