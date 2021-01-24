@@ -1,3 +1,5 @@
+//Program för att räkna hur många gånger ett ord nämns i indata text från fil
+
 #include <iostream>
 #include <fstream>
 #include <vector>
